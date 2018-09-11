@@ -1,4 +1,4 @@
-# Python Terminal Mario
+# Python Space Invaders
 
 ## Introduction
 
