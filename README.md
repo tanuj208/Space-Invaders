@@ -12,7 +12,10 @@ The application demonstrates Object oriented structure.
 
 ## Running the program
 
-- Install pygame:
+- Install pygame using following set of commands - 
+  - `sudo add-apt-repository ppa:thopiekar/pygame`
+  - `sudo apt-get update`
+  - `sudo apt-get install python3-pygame`
 - Start the game by using `python3 game.py` in the game directory.
 
 ## Controls
